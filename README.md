@@ -12,4 +12,4 @@ Para executar o projeto é necessário possuir o Visual Studio 2022 e o SqlServe
 
 ## Contato
 
-Para qualquer dúvida ou sugestão, entre em contato através do email: sergio.coti@gmail.com.
+Para qualquer dúvida ou sugestão, entre em contato através do email: paulomachado.dev@gmail.com.
